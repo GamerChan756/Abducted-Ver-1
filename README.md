@@ -29,19 +29,19 @@ Overview (Demo):
 	Powering on the generator, you go back to the elevator and see it works, but there are only two floor buttons. With no other choice, you push the button not for the basement and, exiting on the new floor, you see a cell with someone inside. After talking to them a bit and asking what the heck is going on, they say “I have no idea, but maybe you woke up in the basement when know one else did for a reason.” Realizing you are the only one who is free to help, you decide to find a way out, find your dog, free as many people as you can, and find out the secrets this place has in store.
 
 Aesthetics:
- •	Visual
+ •	Visual:
 The game will be in a 3D space with props for environment, street assets, and basement décor. Some text will be displayed to the player in a tutorial based format to explain what different keys do in the game and when to use them, if applicable. 
-•	Audio
+•	Audio:
 There will be audio for player walking/running/jumping, player voice lines, sound effects for player’s dog, and enemy sound effects (walking, growls, etc.).
 
 Narrative:
-•	Premise
+•	Premise:
 The player been abducted by unknown people and must find a way to escape the complex.
-•	Setting
+•	Setting:
 The main tutorial part of the game will take place in an empty street and the rest will take place in some type of complex.
-•	Characters
+•	Characters:
 There are four different characters in the game so far. There is your player persona named Eloísa; your dog, Sparkk, whom you love and care for dearly; Character you talk to after leaving the basement; and the main enemy you encounter while in the basement.
-•	Plot
+•	Plot:
 As you progress through the game, you start to understand things. The creatures you encounter aren’t living animals but are a product of fungi that can take the shape of animals and people, but they are not fully able to look exactly like them yet. It is also extremely dangerous and hostile when standing too close to them. You also find out that the people behind this belong to a mafia, science corps called “Alluvial Corps” that believes future generations of humans will not be as capable or smart as previous generations and wants to control these fungi and help them become humans so they can rebirth the human generation in a new form. To keep the mouths shut of people who have been nosey, the corps would kidnap those they love the most and threaten to kill them if they speak out. Your father is one of these people and it is why they took you, his daughter whom he loves more than his own life.
 
 Technology/Development Tools:
